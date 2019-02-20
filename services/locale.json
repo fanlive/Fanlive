@@ -1,0 +1,164 @@
+{
+    "New_recruit": {
+        "en": "New recruit ",
+        "fr": "Nouvelle recrue "
+    },
+    "WrongToken": {
+        "en": "Incorrect token !",
+        "fr": "Jeton incorrect !"
+    },
+    "InternetError": {
+        "en": "Internet problem, please try again later",
+        "fr": "Problème internet, veuillez réessayer ultérieurement"
+    },
+    "User_Not_Exist":{
+        "en": "user dosen't exist",
+        "fr": "utilisateur introuvable"
+    },
+    "ActiveAccount": {
+        "en": "You must activate your account first",
+        "fr": "You must activate your account first"
+    },
+    "ErrorAddImage": {
+        "en": "You can not add images for this Gloo because you were not among the members",
+        "fr": "You can not add images for this Gloo because you were not among the members"
+    },    
+    "MissingImage": {
+        "en": "Missing file image !",
+        "fr": "Missing file image !"
+    },    
+    "ErrorBigImage": {
+        "en": "The image may not be greater than 64Ko",
+        "fr": "The image may not be greater than 64Ko"
+    },
+     "NotMobileNumber": {
+        "en": "The phone number entered does not corresponding to mobile number",
+        "fr": "The phone number entered does not corresponding to mobile number"
+    },
+    "InvalidPhoneNumber": {
+        "en": "Invalid phone number",
+        "fr": "Invalid phone number"
+    },
+    "RequiredPhoneNumber": {
+        "en": "phone number required",
+        "fr": "phone number required"
+    },
+    "MissingPhoneNumber": {
+        "en": "Missing phone number !",
+        "fr": "Missing phone number !"
+    },
+    "InvalidCode": {
+        "en": "Invalid activation code",
+        "fr": "Code d'activation invalid"
+    },
+    "InvalidUserId": {
+        "en": "Invalid user id",
+        "fr": "Invalid user id"
+    },
+    "ReaquireddUserId": {
+        "en": "User id required",
+        "fr": "User id required"
+    },
+    "ReaquiredCode": {
+        "en": "Validation code required",
+        "fr": "Validation code required"
+    },
+    "ReaquiredToken": {
+        "en": "Registration token required",
+        "fr": "Registration token required"
+    },
+    "ReaquiredDevice": {
+        "en": "Device required",
+        "fr": "Device required"
+    },
+    "MissingUserId": {
+        "en": "Missing user Id",
+        "fr": "Missing user Id"
+    },
+    "MissingCode": {
+        "en": "Missing activation code",
+        "fr": "Missing activation code"
+    },
+    "MissingToken": {
+        "en": "Missing registration token",
+        "fr": "Missing registration token"
+    },
+    "MissingDevice": {
+        "en": "Missing device",
+        "fr": "Missing device"
+    },
+    "LongUsername": {
+        "en": "Your username must be less than 20 characters",
+        "fr": "Your username must be less than 20 characters"
+    }, 
+    "ShortUsername": {
+        "en": "Your username must be longer than 3 characters",
+        "fr": "Your username must be longer than 3 characters"
+    },
+    "RequiredUsername": {
+        "en": "Username required",
+        "fr": "Username required"
+    },
+    "MissingUsername": {
+        "en": "Missing username !",
+        "fr": "Missing username !"
+    },
+    "requiredImage": {
+        "en": "file image required",
+        "fr": "file image required"
+    },
+    "AlreadyFriend": {
+        "en": "You are already friends",
+        "fr": "You are already friends"
+    },
+    "DuplicatePhone": {
+        "en": "This is your number, please put another phone number",
+        "fr": "This is your number, please put another phone number"
+    },
+
+    "MissingListeUsers": {
+        "en": "Missing params liste users !",
+        "fr": "Missing params liste users !"
+    },
+    "requiredListeUsers": {
+        "en": "Liste Users required",
+        "fr": "Liste Users required"
+    },
+    "IncompletAccount": {
+        "en": "You have to complete all the registration steps first",
+        "fr": "Vous devriez remplir toutes les étapes d'enregistrement"
+    },
+    "checkListPhoneNumber": {
+        "en": "Check list phone number",
+        "fr": "Vérifiez la liste numéro de téléphone"
+    },
+   
+    "RequiredTeam":{
+        "en": "Team required",
+        "fr": "Team obligatoire"
+    },
+    "MissingTeam":{
+        "en": "Missing params Team",
+        "fr": "Paramètre Team manquant !"
+    },
+    "Missingname": {
+        "en": "Missing name !",
+        "fr": "Missing name !"
+    },
+     "Requiredname": {
+        "en": "name required",
+        "fr": "name required"
+    },
+    "MissingTeamId": {
+        "en": "team id missing",
+        "fr": "team id missing"
+    },
+     "RequiredTeamId": {
+        "en": "team id required",
+        "fr": "team id required"
+    },
+    "Title_Notification" :{
+        "en": "It's your turn !",
+        "fr": "C'est à toi de jouer !"
+    }    
+}
